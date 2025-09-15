@@ -1,0 +1,722 @@
+2025-09-15 07:21:59,604 - Knowledge - INFO - Redis support added with prefix knowledge:b0313rv:
+2025-09-15 07:21:59,938 - Knowledge - INFO - load persisted knowledge: begin
+2025-09-15 07:22:00,042 - Knowledge - INFO - load persisted knowledge: end
+2025-09-15 07:22:00,147 - Knowledge - INFO - load persisted docinfo: begin
+2025-09-15 07:22:00,262 - Knowledge - INFO - load persisted docinfo: end
+2025-09-15 07:22:00,395 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-09-15 07:22:00,494 - Knowledge - INFO - knowledge worker kw1 start
+2025-09-15 07:22:00,496 - Knowledge - INFO - worker kw2 created with dedicated MongoDB connection (total: 2)
+2025-09-15 07:22:00,600 - Knowledge - INFO - worker kw1 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.setup.js from ingest queue
+2025-09-15 07:22:00,707 - Knowledge - INFO - knowledge worker kw2 start
+2025-09-15 07:22:00,898 - Knowledge - INFO - worker kw2 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/colors.css from ingest queue
+2025-09-15 07:22:00,843 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.setup.js
+2025-09-15 07:22:00,709 - Knowledge - INFO - worker kw3 created with dedicated MongoDB connection (total: 3)
+2025-09-15 07:22:01,018 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/colors.css
+2025-09-15 07:22:01,114 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:01,206 - Knowledge - INFO - knowledge worker kw3 start
+2025-09-15 07:22:01,209 - Knowledge - INFO - worker kw4 created with dedicated MongoDB connection (total: 4)
+2025-09-15 07:22:01,306 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:01,419 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:01,495 - Knowledge - INFO - worker kw3 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/globals.css from ingest queue
+2025-09-15 07:22:01,603 - Knowledge - INFO - knowledge worker kw4 start
+2025-09-15 07:22:01,605 - Knowledge - INFO - worker kw5 created with dedicated MongoDB connection (total: 5)
+2025-09-15 07:22:01,683 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:01,769 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.setup.js
+2025-09-15 07:22:01,890 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/globals.css
+2025-09-15 07:22:01,968 - Knowledge - INFO - worker kw4 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/env.ts from ingest queue
+2025-09-15 07:22:02,041 - Knowledge - INFO - knowledge worker kw5 start
+2025-09-15 07:22:02,043 - Knowledge - INFO - worker kw6 created with dedicated MongoDB connection (total: 6)
+2025-09-15 07:22:02,124 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/colors.css
+2025-09-15 07:22:02,312 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.setup.js to ingest queue
+2025-09-15 07:22:02,422 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/env.ts
+2025-09-15 07:22:02,555 - Knowledge - INFO - knowledge worker kw6 start
+2025-09-15 07:22:02,557 - Knowledge - INFO - worker kw7 created with dedicated MongoDB connection (total: 7)
+2025-09-15 07:22:02,790 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:02,791 - Knowledge - INFO - worker kw5 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/config.ts from ingest queue
+2025-09-15 07:22:02,847 - Knowledge - INFO - worker kw1 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/Skeleton.tsx from ingest queue
+2025-09-15 07:22:02,847 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/colors.css to ingest queue
+2025-09-15 07:22:03,066 - Knowledge - INFO - knowledge worker kw7 start
+2025-09-15 07:22:03,067 - Knowledge - INFO - worker kw8 created with dedicated MongoDB connection (total: 8)
+2025-09-15 07:22:03,183 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:03,315 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/config.ts
+2025-09-15 07:22:03,397 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/Skeleton.tsx
+2025-09-15 07:22:03,491 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:04,080 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:03,492 - Knowledge - INFO - worker kw2 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ArrowLink.tsx from ingest queue
+2025-09-15 07:22:03,589 - Knowledge - INFO - worker kw7 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnderlineLink.tsx from ingest queue
+2025-09-15 07:22:03,679 - Knowledge - INFO - knowledge worker kw8 start
+2025-09-15 07:22:03,683 - Knowledge - INFO - worker kw9 created with dedicated MongoDB connection (total: 9)
+2025-09-15 07:22:03,783 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/globals.css
+2025-09-15 07:22:03,908 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:03,981 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:03,491 - Knowledge - INFO - worker kw6 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/IconLink.tsx from ingest queue
+2025-09-15 07:22:04,166 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/env.ts
+2025-09-15 07:22:04,324 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ArrowLink.tsx
+2025-09-15 07:22:04,448 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnderlineLink.tsx
+2025-09-15 07:22:04,492 - Knowledge - INFO - worker kw8 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnstyledLink.tsx from ingest queue
+2025-09-15 07:22:04,573 - Knowledge - INFO - knowledge worker kw9 start
+2025-09-15 07:22:04,576 - Knowledge - INFO - worker kw10 created with dedicated MongoDB connection (total: 10)
+2025-09-15 07:22:04,761 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/globals.css to ingest queue
+2025-09-15 07:22:04,784 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:04,886 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:05,041 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/IconLink.tsx
+2025-09-15 07:22:05,481 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnstyledLink.tsx
+2025-09-15 07:22:05,676 - Knowledge - INFO - knowledge worker kw10 start
+2025-09-15 07:22:05,679 - Knowledge - INFO - worker kw11 created with dedicated MongoDB connection (total: 11)
+2025-09-15 07:22:05,840 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/config.ts
+2025-09-15 07:22:05,869 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:06,535 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:05,870 - Knowledge - INFO - worker kw9 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ButtonLink.tsx from ingest queue
+2025-09-15 07:22:05,870 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/env.ts to ingest queue
+2025-09-15 07:22:06,830 - Knowledge - INFO - worker kw3 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/PrimaryLink.tsx from ingest queue
+2025-09-15 07:22:06,318 - Knowledge - INFO - knowledge worker kw11 start
+2025-09-15 07:22:06,320 - Knowledge - INFO - worker kw12 created with dedicated MongoDB connection (total: 12)
+2025-09-15 07:22:05,870 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:06,620 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ArrowLink.tsx
+2025-09-15 07:22:06,754 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ButtonLink.tsx
+2025-09-15 07:22:05,959 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/Skeleton.tsx
+2025-09-15 07:22:06,832 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:06,832 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:07,740 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:06,886 - Knowledge - INFO - worker kw4 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/IconButton.tsx from ingest queue
+2025-09-15 07:22:06,886 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/config.ts to ingest queue
+2025-09-15 07:22:06,963 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/PrimaryLink.tsx
+2025-09-15 07:22:07,096 - Knowledge - INFO - knowledge worker kw12 start
+2025-09-15 07:22:07,100 - Knowledge - INFO - worker kw13 created with dedicated MongoDB connection (total: 13)
+2025-09-15 07:22:08,361 - Knowledge - INFO - knowledge worker kw13 start
+2025-09-15 07:22:07,656 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:08,583 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/IconLink.tsx
+2025-09-15 07:22:07,823 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnstyledLink.tsx
+2025-09-15 07:22:07,992 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/IconButton.tsx
+2025-09-15 07:22:08,034 - Knowledge - INFO - worker kw11 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/TextButton.tsx from ingest queue
+2025-09-15 07:22:08,090 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:08,152 - Knowledge - INFO - worker kw5 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/Button.tsx from ingest queue
+2025-09-15 07:22:08,153 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ArrowLink.tsx to ingest queue
+2025-09-15 07:22:07,213 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:08,368 - Knowledge - INFO - worker kw14 created with dedicated MongoDB connection (total: 14)
+2025-09-15 07:22:06,832 - Knowledge - INFO - worker kw10 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/NextImage.tsx from ingest queue
+2025-09-15 07:22:09,063 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/TextButton.tsx
+2025-09-15 07:22:09,132 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:09,275 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/Button.tsx
+2025-09-15 07:22:09,367 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/Skeleton.tsx to ingest queue
+2025-09-15 07:22:09,478 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnderlineLink.tsx
+2025-09-15 07:22:09,576 - Knowledge - INFO - knowledge worker kw14 start
+2025-09-15 07:22:09,580 - Knowledge - INFO - worker kw15 created with dedicated MongoDB connection (total: 15)
+2025-09-15 07:22:09,720 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/NextImage.tsx
+2025-09-15 07:22:09,868 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ButtonLink.tsx
+2025-09-15 07:22:10,090 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:10,092 - Knowledge - INFO - worker kw12 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/page.tsx from ingest queue
+2025-09-15 07:22:10,092 - Knowledge - INFO - worker kw13 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/api/hello/route.ts from ingest queue
+2025-09-15 07:22:10,150 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/IconLink.tsx to ingest queue
+2025-09-15 07:22:10,335 - Knowledge - INFO - knowledge worker kw15 start
+2025-09-15 07:22:10,336 - Knowledge - INFO - worker kw16 created with dedicated MongoDB connection (total: 16)
+2025-09-15 07:22:10,589 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:10,730 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/page.tsx
+2025-09-15 07:22:10,815 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/api/hello/route.ts
+2025-09-15 07:22:10,883 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:10,884 - Knowledge - INFO - worker kw2 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/page.tsx from ingest queue
+2025-09-15 07:22:10,884 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:10,885 - Knowledge - INFO - worker kw1 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/layout.tsx from ingest queue
+2025-09-15 07:22:10,948 - Knowledge - INFO - worker kw14 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/layout.tsx from ingest queue
+2025-09-15 07:22:10,948 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:11,008 - Knowledge - INFO - worker kw6 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/not-found.tsx from ingest queue
+2025-09-15 07:22:11,008 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:11,008 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnstyledLink.tsx to ingest queue
+2025-09-15 07:22:11,067 - Knowledge - INFO - knowledge worker kw16 start
+2025-09-15 07:22:11,071 - Knowledge - INFO - worker kw17 created with dedicated MongoDB connection (total: 17)
+2025-09-15 07:22:11,151 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/PrimaryLink.tsx
+2025-09-15 07:22:11,437 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:11,568 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/page.tsx
+2025-09-15 07:22:11,642 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:12,852 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/TextButton.tsx
+2025-09-15 07:22:11,853 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/layout.tsx
+2025-09-15 07:22:11,928 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:12,094 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/not-found.tsx
+2025-09-15 07:22:12,146 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:12,276 - Knowledge - INFO - worker kw15 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/error.tsx from ingest queue
+2025-09-15 07:22:12,350 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ButtonLink.tsx to ingest queue
+2025-09-15 07:22:12,453 - Knowledge - INFO - knowledge worker kw17 start
+2025-09-15 07:22:12,456 - Knowledge - INFO - worker kw18 created with dedicated MongoDB connection (total: 18)
+2025-09-15 07:22:13,619 - Knowledge - INFO - knowledge worker kw18 start
+2025-09-15 07:22:11,759 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/layout.tsx
+2025-09-15 07:22:13,132 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/NextImage.tsx
+2025-09-15 07:22:13,310 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/Button.tsx
+2025-09-15 07:22:13,426 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/error.tsx
+2025-09-15 07:22:13,471 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:13,472 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:13,478 - Knowledge - INFO - worker kw16 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__mocks__/svg.tsx from ingest queue
+2025-09-15 07:22:13,535 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:13,593 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/TextButton.tsx to ingest queue
+2025-09-15 07:22:12,653 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/IconButton.tsx
+2025-09-15 07:22:14,199 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:14,787 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/page.tsx
+2025-09-15 07:22:13,622 - Knowledge - INFO - worker kw19 created with dedicated MongoDB connection (total: 19)
+2025-09-15 07:22:14,399 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__mocks__/svg.tsx
+2025-09-15 07:22:14,458 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:14,580 - Knowledge - INFO - worker kw11 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/utils.ts from ingest queue
+2025-09-15 07:22:14,581 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:14,582 - Knowledge - INFO - worker kw8 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/helper.ts from ingest queue
+2025-09-15 07:22:14,583 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/PrimaryLink.tsx to ingest queue
+2025-09-15 07:22:14,283 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:14,980 - Knowledge - INFO - knowledge worker kw19 start
+2025-09-15 07:22:14,984 - Knowledge - INFO - worker kw20 created with dedicated MongoDB connection (total: 20)
+2025-09-15 07:22:15,227 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/page.tsx
+2025-09-15 07:22:15,373 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/utils.ts
+2025-09-15 07:22:15,444 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:15,581 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/helper.ts
+2025-09-15 07:22:15,663 - Knowledge - INFO - worker kw17 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/logger.ts from ingest queue
+2025-09-15 07:22:15,664 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:15,665 - Knowledge - INFO - worker kw18 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/og.ts from ingest queue
+2025-09-15 07:22:15,667 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:15,779 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/api/hello/route.ts
+2025-09-15 07:22:15,800 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:15,801 - Knowledge - INFO - worker kw9 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/__tests__/og.test.ts from ingest queue
+2025-09-15 07:22:15,801 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnderlineLink.tsx to ingest queue
+2025-09-15 07:22:15,970 - Knowledge - INFO - knowledge worker kw20 start
+2025-09-15 07:22:15,972 - Knowledge - WARNING - High connection count: 21 connections active
+2025-09-15 07:22:16,264 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/not-found.tsx
+2025-09-15 07:22:16,654 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/logger.ts
+2025-09-15 07:22:16,691 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:17,762 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/layout.tsx
+2025-09-15 07:22:16,876 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:17,059 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:17,172 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/__tests__/og.test.ts
+2025-09-15 07:22:17,361 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:17,362 - Knowledge - INFO - worker kw3 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__tests__/pages/HomePage.test.tsx from ingest queue
+2025-09-15 07:22:17,362 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/NextImage.tsx to ingest queue
+2025-09-15 07:22:17,416 - Knowledge - INFO - worker kw21 created with dedicated MongoDB connection (total: 21)
+2025-09-15 07:22:16,823 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/og.ts
+2025-09-15 07:22:17,972 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/layout.tsx
+2025-09-15 07:22:18,056 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/error.tsx
+2025-09-15 07:22:18,245 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:18,947 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__mocks__/svg.tsx
+2025-09-15 07:22:18,443 - Knowledge - INFO - worker kw19 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/package.json from ingest queue
+2025-09-15 07:22:18,508 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:18,508 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:18,556 - Knowledge - INFO - knowledge worker kw21 start
+2025-09-15 07:22:18,558 - Knowledge - WARNING - High connection count: 22 connections active
+2025-09-15 07:22:18,577 - Knowledge - INFO - worker kw7 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-env.d.ts from ingest queue
+2025-09-15 07:22:18,577 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/IconButton.tsx to ingest queue
+2025-09-15 07:22:18,394 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__tests__/pages/HomePage.test.tsx
+2025-09-15 07:22:19,192 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/package.json
+2025-09-15 07:22:19,272 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:20,017 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/utils.ts
+2025-09-15 07:22:19,578 - Knowledge - INFO - worker kw22 created with dedicated MongoDB connection (total: 22)
+2025-09-15 07:22:19,711 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-env.d.ts
+2025-09-15 07:22:19,749 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/page.tsx to ingest queue
+2025-09-15 07:22:19,361 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:20,221 - Knowledge - INFO - knowledge worker kw22 start
+2025-09-15 07:22:20,224 - Knowledge - WARNING - High connection count: 23 connections active
+2025-09-15 07:22:20,461 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/Button.tsx to ingest queue
+2025-09-15 07:22:20,581 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/helper.ts
+2025-09-15 07:22:20,779 - Knowledge - INFO - worker kw23 created with dedicated MongoDB connection (total: 23)
+2025-09-15 07:22:20,929 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:20,989 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:20,990 - Knowledge - INFO - worker kw10 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/pnpm-lock.yaml from ingest queue
+2025-09-15 07:22:20,990 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/page.tsx to ingest queue
+2025-09-15 07:22:21,073 - Knowledge - INFO - knowledge worker kw23 start
+2025-09-15 07:22:21,075 - Knowledge - WARNING - High connection count: 24 connections active
+2025-09-15 07:22:21,148 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:21,220 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:21,340 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/pnpm-lock.yaml
+2025-09-15 07:22:21,421 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/api/hello/route.ts to ingest queue
+2025-09-15 07:22:21,613 - Knowledge - INFO - worker kw24 created with dedicated MongoDB connection (total: 24)
+2025-09-15 07:22:21,714 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/logger.ts
+2025-09-15 07:22:21,834 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/__tests__/og.test.ts
+2025-09-15 07:22:22,023 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:22,119 - Knowledge - INFO - knowledge worker kw24 start
+2025-09-15 07:22:22,123 - Knowledge - WARNING - High connection count: 25 connections active
+2025-09-15 07:22:22,182 - Knowledge - INFO - worker kw21 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next.config.js from ingest queue
+2025-09-15 07:22:22,183 - Knowledge - INFO - worker kw4 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-sitemap.config.js from ingest queue
+2025-09-15 07:22:22,183 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:22,840 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:22,247 - Knowledge - INFO - worker kw12 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/postcss.config.js from ingest queue
+2025-09-15 07:22:22,247 - Knowledge - INFO - worker kw5 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/vercel.json from ingest queue
+2025-09-15 07:22:22,247 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/not-found.tsx to ingest queue
+2025-09-15 07:22:22,354 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:22,537 - Knowledge - INFO - worker kw25 created with dedicated MongoDB connection (total: 25)
+2025-09-15 07:22:22,701 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next.config.js
+2025-09-15 07:22:22,799 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-sitemap.config.js
+2025-09-15 07:22:22,246 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:22,920 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__tests__/pages/HomePage.test.tsx
+2025-09-15 07:22:23,058 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/postcss.config.js
+2025-09-15 07:22:23,170 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/vercel.json
+2025-09-15 07:22:23,247 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/layout.tsx to ingest queue
+2025-09-15 07:22:23,345 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/og.ts
+2025-09-15 07:22:23,445 - Knowledge - INFO - knowledge worker kw25 start
+2025-09-15 07:22:23,447 - Knowledge - WARNING - High connection count: 26 connections active
+2025-09-15 07:22:23,701 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:24,498 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-env.d.ts
+2025-09-15 07:22:24,081 - Knowledge - INFO - worker kw2 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.config.js from ingest queue
+2025-09-15 07:22:24,081 - Knowledge - INFO - worker kw13 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tailwind.config.ts from ingest queue
+2025-09-15 07:22:24,081 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/layout.tsx to ingest queue
+2025-09-15 07:22:24,081 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:24,410 - Knowledge - INFO - worker kw26 created with dedicated MongoDB connection (total: 26)
+2025-09-15 07:22:24,080 - Knowledge - INFO - worker kw20 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tsconfig.json from ingest queue
+2025-09-15 07:22:24,749 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.config.js
+2025-09-15 07:22:24,839 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tailwind.config.ts
+2025-09-15 07:22:24,880 - Knowledge - INFO - worker kw1 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/README.md from ingest queue
+2025-09-15 07:22:24,881 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:24,881 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/utils.ts to ingest queue
+2025-09-15 07:22:24,962 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:25,058 - Knowledge - INFO - knowledge worker kw26 start
+2025-09-15 07:22:25,060 - Knowledge - WARNING - High connection count: 27 connections active
+2025-09-15 07:22:25,929 - Knowledge - INFO - worker kw27 created with dedicated MongoDB connection (total: 27)
+2025-09-15 07:22:25,411 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/README.md
+2025-09-15 07:22:25,481 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:25,572 - Knowledge - INFO - worker kw11 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/CHANGELOG.md from ingest queue
+2025-09-15 07:22:25,574 - Knowledge - INFO - worker kw22 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/commitlint.config.js from ingest queue
+2025-09-15 07:22:25,574 - Knowledge - INFO - worker kw24 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.setup.js from ingest queue
+2025-09-15 07:22:25,574 - Knowledge - INFO - worker kw6 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/colors.css from ingest queue
+2025-09-15 07:22:25,574 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:26,730 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:25,689 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/pnpm-lock.yaml
+2025-09-15 07:22:25,180 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tsconfig.json
+2025-09-15 07:22:26,049 - Knowledge - INFO - knowledge worker kw27 start
+2025-09-15 07:22:26,051 - Knowledge - WARNING - High connection count: 28 connections active
+2025-09-15 07:22:26,228 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/package.json
+2025-09-15 07:22:26,332 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/CHANGELOG.md
+2025-09-15 07:22:26,481 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/commitlint.config.js
+2025-09-15 07:22:26,556 - Knowledge - INFO - Thread kw24 - File jest.setup.js - Remaining files in queue: 21
+2025-09-15 07:22:26,652 - Knowledge - INFO - Thread kw6 - File colors.css - Remaining files in queue: 21
+2025-09-15 07:22:25,635 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__tests__/pages/HomePage.test.tsx to ingest queue
+2025-09-15 07:22:26,810 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next.config.js
+2025-09-15 07:22:27,239 - Knowledge - INFO - worker kw28 created with dedicated MongoDB connection (total: 28)
+2025-09-15 07:22:27,635 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.setup.js
+2025-09-15 07:22:27,748 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/colors.css
+2025-09-15 07:22:27,854 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:27,854 - Knowledge - INFO - worker kw14 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/globals.css from ingest queue
+2025-09-15 07:22:28,452 - Knowledge - INFO - Thread kw14 - File globals.css - Remaining files in queue: 19
+2025-09-15 07:22:27,915 - Knowledge - INFO - worker kw25 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/config.ts from ingest queue
+2025-09-15 07:22:28,033 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__mocks__/svg.tsx to ingest queue
+2025-09-15 07:22:28,059 - Knowledge - INFO - knowledge worker kw28 start
+2025-09-15 07:22:28,060 - Knowledge - WARNING - High connection count: 29 connections active
+2025-09-15 07:22:28,168 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.setup.js
+2025-09-15 07:22:28,370 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:27,855 - Knowledge - INFO - worker kw23 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/env.ts from ingest queue
+2025-09-15 07:22:28,569 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/globals.css
+2025-09-15 07:22:28,690 - Knowledge - INFO - Thread kw25 - File config.ts - Remaining files in queue: 19
+2025-09-15 07:22:28,798 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:28,798 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:28,945 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:28,945 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:28,945 - Knowledge - INFO - worker kw26 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ArrowLink.tsx from ingest queue
+2025-09-15 07:22:28,945 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:28,979 - Knowledge - INFO - worker kw29 created with dedicated MongoDB connection (total: 29)
+2025-09-15 07:22:29,006 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:29,006 - Knowledge - INFO - worker kw27 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/Skeleton.tsx from ingest queue
+2025-09-15 07:22:30,417 - Knowledge - INFO - Thread kw27 - File Skeleton.tsx - Remaining files in queue: 18
+2025-09-15 07:22:29,070 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/package.json to ingest queue
+2025-09-15 07:22:29,106 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.setup.js
+2025-09-15 07:22:29,218 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/vercel.json
+2025-09-15 07:22:29,322 - Knowledge - INFO - Thread kw23 - File env.ts - Remaining files in queue: 18
+2025-09-15 07:22:29,535 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/config.ts
+2025-09-15 07:22:29,630 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:29,714 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:29,844 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:29,929 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:30,019 - Knowledge - INFO - Thread kw26 - File ArrowLink.tsx - Remaining files in queue: 18
+2025-09-15 07:22:30,107 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:30,201 - Knowledge - INFO - knowledge worker kw29 start
+2025-09-15 07:22:30,205 - Knowledge - WARNING - High connection count: 30 connections active
+2025-09-15 07:22:30,302 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:29,070 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:30,545 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/Skeleton.tsx
+2025-09-15 07:22:30,659 - Knowledge - INFO - worker kw3 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/IconLink.tsx from ingest queue
+2025-09-15 07:22:30,661 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/error.tsx to ingest queue
+2025-09-15 07:22:30,768 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.setup.js
+2025-09-15 07:22:30,971 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/colors.css
+2025-09-15 07:22:30,980 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/env.ts
+2025-09-15 07:22:31,072 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/config.ts
+2025-09-15 07:22:31,186 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.config.js
+2025-09-15 07:22:31,269 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tailwind.config.ts
+2025-09-15 07:22:31,389 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-sitemap.config.js
+2025-09-15 07:22:31,500 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/postcss.config.js
+2025-09-15 07:22:31,589 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ArrowLink.tsx
+2025-09-15 07:22:31,701 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/README.md
+2025-09-15 07:22:31,896 - Knowledge - INFO - worker kw30 created with dedicated MongoDB connection (total: 30)
+2025-09-15 07:22:31,991 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tsconfig.json
+2025-09-15 07:22:32,076 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:32,290 - Knowledge - INFO - Thread kw3 - File IconLink.tsx - Remaining files in queue: 18
+2025-09-15 07:22:32,476 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-env.d.ts to ingest queue
+2025-09-15 07:22:32,589 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/colors.css
+2025-09-15 07:22:32,686 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/env.ts
+2025-09-15 07:22:32,795 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/config.ts
+2025-09-15 07:22:33,114 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/globals.css
+2025-09-15 07:22:33,445 - Knowledge - INFO - knowledge worker kw30 start
+2025-09-15 07:22:33,649 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/CHANGELOG.md
+2025-09-15 07:22:33,739 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/IconLink.tsx
+2025-09-15 07:22:33,852 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/logger.ts to ingest queue
+2025-09-15 07:22:34,047 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/env.ts
+2025-09-15 07:22:34,158 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/config.ts
+2025-09-15 07:22:34,221 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/globals.css
+2025-09-15 07:22:34,566 - Knowledge - INFO - worker kw16 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnstyledLink.tsx from ingest queue
+2025-09-15 07:22:34,567 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/helper.ts to ingest queue
+2025-09-15 07:22:34,690 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/env.ts
+2025-09-15 07:22:35,035 - Knowledge - INFO - Thread kw16 - File UnstyledLink.tsx - Remaining files in queue: 20
+2025-09-15 07:22:35,148 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/__tests__/og.test.ts to ingest queue
+2025-09-15 07:22:35,349 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnstyledLink.tsx
+2025-09-15 07:22:35,437 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/pnpm-lock.yaml to ingest queue
+2025-09-15 07:22:35,590 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:35,590 - Knowledge - INFO - worker kw10 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ButtonLink.tsx from ingest queue
+2025-09-15 07:22:35,592 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/og.ts to ingest queue
+2025-09-15 07:22:35,681 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:35,769 - Knowledge - INFO - Thread kw10 - File ButtonLink.tsx - Remaining files in queue: 22
+2025-09-15 07:22:36,111 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ButtonLink.tsx
+2025-09-15 07:22:35,859 - Knowledge - INFO - worker kw15 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/PrimaryLink.tsx from ingest queue
+2025-09-15 07:22:35,879 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next.config.js to ingest queue
+2025-09-15 07:22:35,986 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/commitlint.config.js
+2025-09-15 07:22:36,099 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/Skeleton.tsx
+2025-09-15 07:22:35,858 - Knowledge - INFO - worker kw29 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/TextButton.tsx from ingest queue
+2025-09-15 07:22:36,379 - Knowledge - INFO - Thread kw15 - File PrimaryLink.tsx - Remaining files in queue: 21
+2025-09-15 07:22:36,848 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/Skeleton.tsx
+2025-09-15 07:22:36,891 - Knowledge - INFO - Thread kw29 - File TextButton.tsx - Remaining files in queue: 22
+2025-09-15 07:22:36,991 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/PrimaryLink.tsx
+2025-09-15 07:22:37,268 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/TextButton.tsx
+2025-09-15 07:22:37,319 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/IconLink.tsx
+2025-09-15 07:22:37,462 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tsconfig.json to ingest queue
+2025-09-15 07:22:37,671 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/IconLink.tsx
+2025-09-15 07:22:37,736 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:37,736 - Knowledge - INFO - worker kw30 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnderlineLink.tsx from ingest queue
+2025-09-15 07:22:37,821 - Knowledge - INFO - worker kw28 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/NextImage.tsx from ingest queue
+2025-09-15 07:22:37,822 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/CHANGELOG.md to ingest queue
+2025-09-15 07:22:37,985 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:38,433 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/colors.css
+2025-09-15 07:22:38,213 - Knowledge - INFO - Thread kw28 - File NextImage.tsx - Remaining files in queue: 21
+2025-09-15 07:22:38,309 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:38,831 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:38,316 - Knowledge - INFO - worker kw8 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/IconButton.tsx from ingest queue
+2025-09-15 07:22:39,072 - Knowledge - INFO - Thread kw8 - File IconButton.tsx - Remaining files in queue: 20
+2025-09-15 07:22:38,078 - Knowledge - INFO - Thread kw30 - File UnderlineLink.tsx - Remaining files in queue: 21
+2025-09-15 07:22:39,329 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnderlineLink.tsx
+2025-09-15 07:22:38,452 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:38,527 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.config.js to ingest queue
+2025-09-15 07:22:38,684 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/NextImage.tsx
+2025-09-15 07:22:38,769 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ArrowLink.tsx
+2025-09-15 07:22:38,315 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:38,955 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/config.ts
+2025-09-15 07:22:38,324 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:39,197 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/IconButton.tsx
+2025-09-15 07:22:38,452 - Knowledge - INFO - worker kw18 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/page.tsx from ingest queue
+2025-09-15 07:22:39,575 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:39,727 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tailwind.config.ts to ingest queue
+2025-09-15 07:22:39,974 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ButtonLink.tsx
+2025-09-15 07:22:40,012 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ArrowLink.tsx
+2025-09-15 07:22:40,075 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:40,305 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:40,479 - Knowledge - INFO - Thread kw18 - File page.tsx - Remaining files in queue: 21
+2025-09-15 07:22:40,575 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.setup.js
+2025-09-15 07:22:40,690 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:40,690 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-sitemap.config.js to ingest queue
+2025-09-15 07:22:40,861 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ButtonLink.tsx
+2025-09-15 07:22:41,024 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/styles/globals.css
+2025-09-15 07:22:41,160 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/constant/env.ts
+2025-09-15 07:22:41,289 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/page.tsx
+2025-09-15 07:22:41,523 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:41,675 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/postcss.config.js to ingest queue
+2025-09-15 07:22:41,796 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnstyledLink.tsx
+2025-09-15 07:22:42,131 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/PrimaryLink.tsx
+2025-09-15 07:22:42,224 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/Skeleton.tsx
+2025-09-15 07:22:42,308 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/README.md to ingest queue
+2025-09-15 07:22:42,418 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnstyledLink.tsx
+2025-09-15 07:22:42,527 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/PrimaryLink.tsx
+2025-09-15 07:22:42,696 - Knowledge - INFO - worker kw7 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/Button.tsx from ingest queue
+2025-09-15 07:22:42,696 - Knowledge - INFO - worker kw20 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/page.tsx from ingest queue
+2025-09-15 07:22:42,696 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:43,266 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:42,700 - Knowledge - INFO - worker kw19 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/not-found.tsx from ingest queue
+2025-09-15 07:22:42,700 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/vercel.json to ingest queue
+2025-09-15 07:22:43,035 - Knowledge - INFO - Thread kw7 - File Button.tsx - Remaining files in queue: 21
+2025-09-15 07:22:43,163 - Knowledge - INFO - Thread kw20 - File page.tsx - Remaining files in queue: 21
+2025-09-15 07:22:42,700 - Knowledge - INFO - worker kw9 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/api/hello/route.ts from ingest queue
+2025-09-15 07:22:43,403 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/IconLink.tsx
+2025-09-15 07:22:43,441 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/TextButton.tsx
+2025-09-15 07:22:43,541 - Knowledge - INFO - Thread kw19 - File not-found.tsx - Remaining files in queue: 21
+2025-09-15 07:22:43,693 - Knowledge - INFO - adding /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/commitlint.config.js to ingest queue
+2025-09-15 07:22:43,819 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/Button.tsx
+2025-09-15 07:22:43,959 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/page.tsx
+2025-09-15 07:22:44,096 - Knowledge - INFO - Thread kw9 - File route.ts - Remaining files in queue: 22
+2025-09-15 07:22:44,509 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/not-found.tsx
+2025-09-15 07:22:44,602 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/TextButton.tsx
+2025-09-15 07:22:44,732 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnderlineLink.tsx
+2025-09-15 07:22:44,987 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/api/hello/route.ts
+2025-09-15 07:22:45,235 - Knowledge - INFO - worker kw2 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/layout.tsx from ingest queue
+2025-09-15 07:22:45,422 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/NextImage.tsx
+2025-09-15 07:22:45,438 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnderlineLink.tsx
+2025-09-15 07:22:45,560 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:46,034 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:45,672 - Knowledge - INFO - Thread kw2 - File layout.tsx - Remaining files in queue: 22
+2025-09-15 07:22:45,848 - Knowledge - INFO - worker kw4 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/layout.tsx from ingest queue
+2025-09-15 07:22:45,849 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:45,895 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/NextImage.tsx
+2025-09-15 07:22:45,579 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/api/hello/route.ts
+2025-09-15 07:22:46,157 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ArrowLink.tsx
+2025-09-15 07:22:46,215 - Knowledge - INFO - worker kw12 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/utils.ts from ingest queue
+2025-09-15 07:22:46,218 - Knowledge - INFO - worker kw17 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__tests__/pages/HomePage.test.tsx from ingest queue
+2025-09-15 07:22:46,258 - Knowledge - INFO - worker kw1 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__mocks__/svg.tsx from ingest queue
+2025-09-15 07:22:46,269 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/layout.tsx
+2025-09-15 07:22:46,290 - Knowledge - INFO - worker kw21 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/package.json from ingest queue
+2025-09-15 07:22:46,296 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:46,410 - Knowledge - INFO - Thread kw4 - File layout.tsx - Remaining files in queue: 17
+2025-09-15 07:22:46,520 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:46,724 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/page.tsx
+2025-09-15 07:22:46,749 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/api/hello/route.ts
+2025-09-15 07:22:46,920 - Knowledge - INFO - Thread kw12 - File utils.ts - Remaining files in queue: 17
+2025-09-15 07:22:47,002 - Knowledge - INFO - Thread kw17 - File HomePage.test.tsx - Remaining files in queue: 17
+2025-09-15 07:22:47,112 - Knowledge - INFO - Thread kw1 - File svg.tsx - Remaining files in queue: 17
+2025-09-15 07:22:47,150 - Knowledge - INFO - persist search terms embedding for src/components/links/IconLink.tsx
+2025-09-15 07:22:47,314 - Knowledge - INFO - Thread kw21 - File package.json - Remaining files in queue: 17
+2025-09-15 07:22:47,415 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:47,514 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/layout.tsx
+2025-09-15 07:22:47,611 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/ButtonLink.tsx
+2025-09-15 07:22:47,776 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/page.tsx
+2025-09-15 07:22:47,832 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/api/hello/route.ts
+2025-09-15 07:22:47,940 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/utils.ts
+2025-09-15 07:22:48,054 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__tests__/pages/HomePage.test.tsx
+2025-09-15 07:22:48,184 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__mocks__/svg.tsx
+2025-09-15 07:22:48,331 - Knowledge - INFO - worker kw22 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/error.tsx from ingest queue
+2025-09-15 07:22:48,334 - Knowledge - INFO - worker kw13 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-env.d.ts from ingest queue
+2025-09-15 07:22:48,334 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:48,441 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/package.json
+2025-09-15 07:22:48,652 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/PrimaryLink.tsx
+2025-09-15 07:22:48,917 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/layout.tsx
+2025-09-15 07:22:49,369 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/IconButton.tsx
+2025-09-15 07:22:49,636 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/utils.ts
+2025-09-15 07:22:50,769 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/utils.ts
+2025-09-15 07:22:49,732 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__tests__/pages/HomePage.test.tsx
+2025-09-15 07:22:50,989 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__tests__/pages/HomePage.test.tsx
+2025-09-15 07:22:49,868 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__mocks__/svg.tsx
+2025-09-15 07:22:49,936 - Knowledge - INFO - Thread kw22 - File error.tsx - Remaining files in queue: 15
+2025-09-15 07:22:50,019 - Knowledge - INFO - Thread kw13 - File next-env.d.ts - Remaining files in queue: 15
+2025-09-15 07:22:50,140 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:50,267 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/package.json
+2025-09-15 07:22:50,498 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/layout.tsx
+2025-09-15 07:22:50,753 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/IconButton.tsx
+2025-09-15 07:22:49,688 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/not-found.tsx
+2025-09-15 07:22:50,821 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/page.tsx
+2025-09-15 07:22:50,928 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/utils.ts
+2025-09-15 07:22:49,806 - Knowledge - INFO - persist search terms embedding for src/styles/globals.css
+2025-09-15 07:22:51,109 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__tests__/pages/HomePage.test.tsx
+2025-09-15 07:22:51,194 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__mocks__/svg.tsx
+2025-09-15 07:22:51,276 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/error.tsx
+2025-09-15 07:22:51,386 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-env.d.ts
+2025-09-15 07:22:51,501 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/TextButton.tsx
+2025-09-15 07:22:51,586 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/package.json
+2025-09-15 07:22:51,690 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/layout.tsx
+2025-09-15 07:22:51,879 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/not-found.tsx
+2025-09-15 07:22:51,973 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/page.tsx
+2025-09-15 07:22:52,162 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:52,394 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__mocks__/svg.tsx
+2025-09-15 07:22:52,558 - Knowledge - INFO - persist search terms embedding for src/components/Skeleton.tsx
+2025-09-15 07:22:52,604 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-env.d.ts
+2025-09-15 07:22:52,790 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/package.json
+2025-09-15 07:22:53,192 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:53,458 - Knowledge - INFO - worker kw23 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/logger.ts from ingest queue
+2025-09-15 07:22:53,459 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:53,459 - Knowledge - INFO - worker kw5 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/helper.ts from ingest queue
+2025-09-15 07:22:53,459 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:54,270 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:53,740 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnderlineLink.tsx
+2025-09-15 07:22:53,821 - Knowledge - INFO - Thread kw23 - File logger.ts - Remaining files in queue: 13
+2025-09-15 07:22:53,959 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:54,022 - Knowledge - INFO - persist search terms embedding for src/components/links/ArrowLink.tsx
+2025-09-15 07:22:54,140 - Knowledge - INFO - Thread kw5 - File helper.ts - Remaining files in queue: 13
+2025-09-15 07:22:53,545 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-env.d.ts
+2025-09-15 07:22:54,381 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/NextImage.tsx
+2025-09-15 07:22:54,601 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/logger.ts
+2025-09-15 07:22:54,690 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/links/UnstyledLink.tsx
+2025-09-15 07:22:54,882 - Knowledge - INFO - worker kw25 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/__tests__/og.test.ts from ingest queue
+2025-09-15 07:22:54,901 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:54,930 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:54,976 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/helper.ts
+2025-09-15 07:22:55,244 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/layout.tsx
+2025-09-15 07:22:55,298 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-env.d.ts
+2025-09-15 07:22:55,430 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/error.tsx
+2025-09-15 07:22:55,436 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/Button.tsx
+2025-09-15 07:22:55,633 - Knowledge - INFO - Thread kw25 - File og.test.ts - Remaining files in queue: 12
+2025-09-15 07:22:55,732 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:55,799 - Knowledge - INFO - persist search terms embedding for src/components/links/PrimaryLink.tsx
+2025-09-15 07:22:55,846 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:55,917 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/helper.ts
+2025-09-15 07:22:56,010 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/layout.tsx
+2025-09-15 07:22:56,251 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/error.tsx
+2025-09-15 07:22:56,365 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/Button.tsx
+2025-09-15 07:22:56,434 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/__tests__/og.test.ts
+2025-09-15 07:22:56,523 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/page.tsx
+2025-09-15 07:22:56,641 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:56,641 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:56,642 - Knowledge - INFO - worker kw24 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/pnpm-lock.yaml from ingest queue
+2025-09-15 07:22:56,642 - Knowledge - INFO - worker kw14 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/og.ts from ingest queue
+2025-09-15 07:22:56,642 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:56,718 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/api/hello/route.ts
+2025-09-15 07:22:56,823 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/helper.ts
+2025-09-15 07:22:57,043 - Knowledge - INFO - persist search terms embedding for src/components/buttons/TextButton.tsx
+2025-09-15 07:22:57,321 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:57,452 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:57,552 - Knowledge - INFO - Thread kw24 - File pnpm-lock.yaml - Remaining files in queue: 10
+2025-09-15 07:22:57,639 - Knowledge - INFO - Thread kw14 - File og.ts - Remaining files in queue: 10
+2025-09-15 07:22:57,720 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:57,924 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/helper.ts
+2025-09-15 07:22:57,989 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:57,990 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:57,990 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:22:57,991 - Knowledge - INFO - worker kw27 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next.config.js from ingest queue
+2025-09-15 07:22:57,991 - Knowledge - INFO - worker kw11 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tsconfig.json from ingest queue
+2025-09-15 07:22:57,991 - Knowledge - INFO - worker kw6 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/CHANGELOG.md from ingest queue
+2025-09-15 07:22:58,085 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/IconButton.tsx
+2025-09-15 07:22:58,187 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/utils.ts
+2025-09-15 07:22:58,277 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/pnpm-lock.yaml
+2025-09-15 07:22:58,346 - Knowledge - INFO - persist search terms embedding for src/components/links/UnderlineLink.tsx
+2025-09-15 07:22:58,385 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/og.ts
+2025-09-15 07:22:58,478 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__tests__/pages/HomePage.test.tsx
+2025-09-15 07:22:58,728 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/__tests__/og.test.ts
+2025-09-15 07:22:58,777 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:58,867 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:58,959 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:22:59,041 - Knowledge - INFO - Thread kw27 - File next.config.js - Remaining files in queue: 7
+2025-09-15 07:22:59,157 - Knowledge - INFO - Thread kw11 - File tsconfig.json - Remaining files in queue: 7
+2025-09-15 07:22:59,250 - Knowledge - INFO - Thread kw6 - File CHANGELOG.md - Remaining files in queue: 7
+2025-09-15 07:22:59,549 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/pnpm-lock.yaml
+2025-09-15 07:22:59,650 - Knowledge - INFO - worker kw26 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.config.js from ingest queue
+2025-09-15 07:22:59,989 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/__tests__/og.test.ts
+2025-09-15 07:23:00,094 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/not-found.tsx
+2025-09-15 07:23:00,196 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/page.tsx
+2025-09-15 07:23:00,308 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/__mocks__/svg.tsx
+2025-09-15 07:23:00,360 - Knowledge - INFO - persist search terms embedding for src/components/links/ButtonLink.tsx
+2025-09-15 07:23:00,419 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next.config.js
+2025-09-15 07:23:00,528 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tsconfig.json
+2025-09-15 07:23:00,639 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/CHANGELOG.md
+2025-09-15 07:23:00,719 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/pnpm-lock.yaml
+2025-09-15 07:23:00,797 - Knowledge - INFO - Thread kw26 - File jest.config.js - Remaining files in queue: 6
+2025-09-15 07:23:01,660 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/logger.ts
+2025-09-15 07:23:01,672 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tsconfig.json
+2025-09-15 07:23:01,772 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/CHANGELOG.md
+2025-09-15 07:23:02,333 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/CHANGELOG.md
+2025-09-15 07:23:02,004 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.config.js
+2025-09-15 07:23:02,164 - Knowledge - INFO - persist search terms embedding for src/components/links/UnstyledLink.tsx
+2025-09-15 07:23:02,170 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/og.ts
+2025-09-15 07:23:02,173 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/logger.ts
+2025-09-15 07:23:02,250 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tsconfig.json
+2025-09-15 07:23:01,873 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/pnpm-lock.yaml
+2025-09-15 07:23:02,414 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/CHANGELOG.md
+2025-09-15 07:23:02,582 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:02,584 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:02,585 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:02,585 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:02,584 - Knowledge - INFO - worker kw15 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tailwind.config.ts from ingest queue
+2025-09-15 07:23:02,680 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/og.ts
+2025-09-15 07:23:02,832 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tsconfig.json
+2025-09-15 07:23:03,011 - Knowledge - INFO - persist search terms embedding for src/app/page.tsx
+2025-09-15 07:23:03,135 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:04,264 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-env.d.ts
+2025-09-15 07:23:03,329 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:03,407 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:03,777 - Knowledge - INFO - Thread kw15 - File tailwind.config.ts - Remaining files in queue: 5
+2025-09-15 07:23:03,222 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:04,443 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next.config.js
+2025-09-15 07:23:04,486 - Knowledge - INFO - worker kw29 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-sitemap.config.js from ingest queue
+2025-09-15 07:23:05,117 - Knowledge - INFO - Thread kw29 - File next-sitemap.config.js - Remaining files in queue: 3
+2025-09-15 07:23:04,524 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:04,552 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/error.tsx
+2025-09-15 07:23:04,648 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/components/buttons/Button.tsx
+2025-09-15 07:23:04,758 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tailwind.config.ts
+2025-09-15 07:23:04,898 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/components/layout.tsx
+2025-09-15 07:23:05,038 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next.config.js
+2025-09-15 07:23:04,507 - Knowledge - INFO - worker kw3 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/postcss.config.js from ingest queue
+2025-09-15 07:23:06,048 - Knowledge - INFO - Thread kw3 - File postcss.config.js - Remaining files in queue: 3
+2025-09-15 07:23:05,302 - Knowledge - INFO - persist search terms embedding for src/components/NextImage.tsx
+2025-09-15 07:23:05,323 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:05,812 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.config.js
+2025-09-15 07:23:05,228 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-sitemap.config.js
+2025-09-15 07:23:06,148 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/postcss.config.js
+2025-09-15 07:23:06,265 - Knowledge - INFO - worker kw30 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/README.md from ingest queue
+2025-09-15 07:23:06,333 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/helper.ts
+2025-09-15 07:23:06,440 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.config.js
+2025-09-15 07:23:06,511 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-sitemap.config.js
+2025-09-15 07:23:06,612 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/postcss.config.js
+2025-09-15 07:23:06,689 - Knowledge - INFO - Thread kw30 - File README.md - Remaining files in queue: 2
+2025-09-15 07:23:06,868 - Knowledge - INFO - persist search terms embedding for src/app/not-found.tsx
+2025-09-15 07:23:06,968 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-sitemap.config.js
+2025-09-15 07:23:07,063 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/postcss.config.js
+2025-09-15 07:23:07,148 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/README.md
+2025-09-15 07:23:07,378 - Knowledge - INFO - worker kw10 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/vercel.json from ingest queue
+2025-09-15 07:23:07,378 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:07,723 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:07,379 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:07,379 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:07,379 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:07,379 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:07,380 - Knowledge - INFO - worker kw18 pull /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/commitlint.config.js from ingest queue
+2025-09-15 07:23:07,380 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:07,388 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-sitemap.config.js
+2025-09-15 07:23:07,455 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/postcss.config.js
+2025-09-15 07:23:07,542 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/README.md
+2025-09-15 07:23:07,636 - Knowledge - INFO - Thread kw10 - File vercel.json - Remaining files in queue: 0
+2025-09-15 07:23:07,378 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:07,834 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/app/layout.tsx
+2025-09-15 07:23:07,842 - Knowledge - INFO - persist search terms embedding for src/components/buttons/IconButton.tsx
+2025-09-15 07:23:07,947 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:08,040 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:08,122 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:08,234 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:08,342 - Knowledge - INFO - Thread kw18 - File commitlint.config.js - Remaining files in queue: 0
+2025-09-15 07:23:08,424 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:08,747 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/README.md
+2025-09-15 07:23:08,828 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/vercel.json
+2025-09-15 07:23:08,938 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:09,207 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/pnpm-lock.yaml
+2025-09-15 07:23:09,322 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/CHANGELOG.md
+2025-09-15 07:23:09,393 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/og.ts
+2025-09-15 07:23:09,483 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tsconfig.json
+2025-09-15 07:23:09,498 - Knowledge - INFO - persist search terms embedding for src/app/error.tsx
+2025-09-15 07:23:09,574 - Knowledge - INFO - start ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/commitlint.config.js
+2025-09-15 07:23:09,649 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/package.json
+2025-09-15 07:23:09,726 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/README.md
+2025-09-15 07:23:09,828 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/vercel.json
+2025-09-15 07:23:09,913 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/logger.ts
+2025-09-15 07:23:10,477 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/commitlint.config.js
+2025-09-15 07:23:10,492 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:10,492 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:10,493 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:10,746 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/vercel.json
+2025-09-15 07:23:10,880 - Knowledge - INFO - persist search terms embedding for src/components/buttons/Button.tsx
+2025-09-15 07:23:10,940 - Knowledge - INFO - done fast ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/commitlint.config.js
+2025-09-15 07:23:11,038 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:11,128 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:11,242 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:11,330 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/vercel.json
+2025-09-15 07:23:11,559 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/commitlint.config.js
+2025-09-15 07:23:11,624 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next.config.js
+2025-09-15 07:23:11,641 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:11,700 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/jest.config.js
+2025-09-15 07:23:11,785 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/postcss.config.js
+2025-09-15 07:23:11,888 - Knowledge - INFO - done ingest for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tailwind.config.ts
+2025-09-15 07:23:12,006 - Knowledge - INFO - persist search terms embedding for src/app/layout.tsx
+2025-09-15 07:23:12,170 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:12,481 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tailwind.config.ts
+2025-09-15 07:23:12,646 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/next-sitemap.config.js
+2025-09-15 07:23:12,925 - Knowledge - INFO - persist search terms embedding for src/lib/logger.ts
+2025-09-15 07:23:13,114 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:13,189 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:13,277 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/src/lib/__tests__/og.test.ts
+2025-09-15 07:23:13,321 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:13,472 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:13,561 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/commitlint.config.js
+2025-09-15 07:23:13,818 - Knowledge - INFO - persist search terms embedding for next.config.js
+2025-09-15 07:23:14,262 - Knowledge - INFO - persist search terms embedding for jest.config.js
+2025-09-15 07:23:14,874 - Knowledge - INFO - persist search terms embedding for src/app/components/page.tsx
+2025-09-15 07:23:14,998 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:15,074 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:15,179 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/vercel.json
+2025-09-15 07:23:15,299 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:15,300 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ts-nextjs-tailwind-starter-133198.git:kavia-test
+2025-09-15 07:23:15,409 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:15,497 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fcdba10f410>
+2025-09-15 07:23:15,597 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/tailwind.config.ts
+2025-09-15 07:23:15,702 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/133198/b0313rv/ts-nextjs-tailwind-starter-133198/README.md
+2025-09-15 07:23:15,942 - Knowledge - INFO - persist search terms embedding for src/lib/og.ts
+2025-09-15 07:23:16,602 - Knowledge - INFO - persist search terms embedding for tailwind.config.ts
+2025-09-15 07:23:16,680 - Knowledge - INFO - Knowledge creation complete
+2025-09-15 07:23:16,768 - Knowledge - INFO - Updating org costs, total cost: 0.008484599999999998
+2025-09-15 07:23:17,840 - Knowledge - INFO - Saving knowledge to Redis...
+2025-09-15 07:23:17,975 - Knowledge - INFO - Knowledge saved to Redis successfully
